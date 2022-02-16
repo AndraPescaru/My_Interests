@@ -1,0 +1,74 @@
+body {
+  /*Background color for entire page*/
+  background-color: grey;
+}
+
+h1{
+  text-align: center;
+  color : brown;
+}
+h2{
+  text-align: center;
+  color : purple;
+}
+h3{
+  text-align: center;
+  color : purple;
+}
+p{
+  text-align:center;
+  color : purple;
+  font-size: 1.5em;
+}
+
+ol{
+  text-align: left;
+  color : purple;
+}
+ul{
+  text-align: left;
+  color : purple;
+}
+table{
+  
+  text-align: left;
+  color : purple;
+}
+#SecretImg{
+  float : left;
+  
+}
+.food{
+  color : purple;
+}
+.sing{
+  color : purple;
+}
+.Inceput{
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-color: black;
+  border-width: 5px;
+  font-family: "Calibri";
+  text-align: center;
+}
+.Mijloc{
+  background-color: black;
+  border: solid;
+  border-width: 5px;
+  border-color: purple;
+  margin: 0px 2px 15px 2px;
+  padding: 0px 17px 5px 17px;
+  border-radius: 25px;
+  font-family: Verdana, Geneva, sans-serif;
+}
+.Mijloc2{
+  background-color: black;
+   border: solid;
+  border-width: 5px;
+  border-color: purple;
+  border-radius: 25px;
+}
+.Mijloc2 p{
+   text-align: center;
+}
